@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.eb558855.css",
-    "main.js": "/portfolio/static/js/main.753e713e.js",
-    "static/js/787.10d564ff.chunk.js": "/portfolio/static/js/787.10d564ff.chunk.js",
-    "static/media/fontawesome-webfont.svg?v=4.7.0": "/portfolio/static/media/fontawesome-webfont.6878d55e3615ccf40c38.svg",
-    "static/media/fontawesome-webfont.eot": "/portfolio/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
-    "static/media/fontawesome-webfont.ttf?v=4.7.0": "/portfolio/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
-    "static/media/fontawesome-webfont.woff?v=4.7.0": "/portfolio/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
-    "static/media/fontawesome-webfont.woff2?v=4.7.0": "/portfolio/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
-    "index.html": "/portfolio/index.html",
-    "main.eb558855.css.map": "/portfolio/static/css/main.eb558855.css.map",
-    "main.753e713e.js.map": "/portfolio/static/js/main.753e713e.js.map",
-    "787.10d564ff.chunk.js.map": "/portfolio/static/js/787.10d564ff.chunk.js.map"
+    "main.css": "/production-portfolio/static/css/main.4017b46c.css",
+    "main.js": "/production-portfolio/static/js/main.7bc8b4ec.js",
+    "static/js/787.10d564ff.chunk.js": "/production-portfolio/static/js/787.10d564ff.chunk.js",
+    "static/media/fontawesome-webfont.svg?v=4.7.0": "/production-portfolio/static/media/fontawesome-webfont.6878d55e3615ccf40c38.svg",
+    "static/media/fontawesome-webfont.eot": "/production-portfolio/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
+    "static/media/fontawesome-webfont.ttf?v=4.7.0": "/production-portfolio/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
+    "static/media/fontawesome-webfont.woff?v=4.7.0": "/production-portfolio/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
+    "static/media/fontawesome-webfont.woff2?v=4.7.0": "/production-portfolio/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
+    "index.html": "/production-portfolio/index.html",
+    "main.4017b46c.css.map": "/production-portfolio/static/css/main.4017b46c.css.map",
+    "main.7bc8b4ec.js.map": "/production-portfolio/static/js/main.7bc8b4ec.js.map",
+    "787.10d564ff.chunk.js.map": "/production-portfolio/static/js/787.10d564ff.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.eb558855.css",
-    "static/js/main.753e713e.js"
+    "static/css/main.4017b46c.css",
+    "static/js/main.7bc8b4ec.js"
   ]
 }
