@@ -33,12 +33,12 @@ const About = () => {
             <hr className="separator mt-1" />
 
             <div className="row">
-              <div className="col-lg-6 m-15px-tb mb-2">
+              <div className="col-lg-6 m-15px-tb mb-5">
                 <div className="resume-box">
                   <Experience />
                 </div>
               </div>
-              <div className="col-lg-6 m-15px-tb mt-2">
+              <div className="col-lg-6 m-15px-tb mt-5">
                 <div className="resume-box">
                   <Education />
                 </div>
