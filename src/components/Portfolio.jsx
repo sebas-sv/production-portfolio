@@ -18,7 +18,7 @@ const Portfolio = () => {
     <div className="portfolio">
       <div
         className="container grid-gallery main-content"
-        data-aos="fade-right"
+        data-aos="fade-up"
         data-aos-duration="1200"
         data-aos-delay="100"
       >

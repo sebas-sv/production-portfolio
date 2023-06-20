@@ -11,7 +11,7 @@ const Contact = () => {
     return (
         <div className="contact">
             <div
-                className="container grid-gallery main-content"
+                className="container grid-gallery main-content  mb-2"
                 data-aos="fade-up"
                 data-aos-duration="1200"
                 data-aos-delay="100"
@@ -19,7 +19,7 @@ const Contact = () => {
                 <Title mainTitle={text.contactTitle1} secondTitle={text.contactTitle2} bgTitle={text.contactSubtitle} />
                 <div className="row">
                     <div className="col-12 col-lg-4">
-                        <h3 className="text-uppercase custom-title mb-0 ft-wt-600 pb-3">
+                        <h3 className="text-uppercase custom-title mb-0 ft-wt-600 pb-3 text-center text-sm-center">
                             {text.contactContentTitle}
                         </h3>
                         <p className="open-sans-font mb-4 justify">

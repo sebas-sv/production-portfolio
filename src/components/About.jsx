@@ -11,7 +11,7 @@ const About = () => {
     <div className="about">
       <div
         className="container grid-gallery main-content"
-        data-aos="fade-left"
+        data-aos="fade-up"
         data-aos-duration="1200"
         data-aos-delay="100"
       >
@@ -21,7 +21,7 @@ const About = () => {
 
             <div className="row">
               <div className="col-12">
-                <div className="text-sm-center">
+                <div className=" text-center text-sm-center">
                   <a className="button" href={text.cv} download>
                     <span className="button-text">{text.downloadCv}</span>
                     <span className="button-icon fa fa-download"></span>
@@ -33,12 +33,12 @@ const About = () => {
             <hr className="separator mt-1" />
 
             <div className="row">
-              <div className="col-lg-6 m-15px-tb">
+              <div className="col-lg-6 m-15px-tb mb-2">
                 <div className="resume-box">
                   <Experience />
                 </div>
               </div>
-              <div className="col-lg-6 m-15px-tb">
+              <div className="col-lg-6 m-15px-tb mt-2">
                 <div className="resume-box">
                   <Education />
                 </div>

@@ -32,7 +32,7 @@ const Form = () => {
   };
 
   return (
-    <form className='contactform' onSubmit={handleSubmit(onSubmit)}>
+    <form className='contactform mb-4' onSubmit={handleSubmit(onSubmit)}>
       <div className='row'>
         <div className='col-12 col-md-6'>
           <div className='form-group'>
