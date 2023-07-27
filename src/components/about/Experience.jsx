@@ -9,11 +9,11 @@ const Experience = () => {
       year: "2022 - " + text.present,
       position: text.aemPosition,
       compnayName: "ACCENTURE",
-      details: text.aemDetails,
+      details: text.aemDetails2,
     },
     {
       year: "2020 - " + "2022",
-      position: text.aemPosition,
+      position: text.aemSitesPosition,
       compnayName: "NTT DATA",
       details: text.aemDetails,
     },

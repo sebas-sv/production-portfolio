@@ -6,6 +6,12 @@ const Education = () => {
 
   const educationContent = [
     {
+      year: "2022 - " + text.present,
+      degree: text.fpMasterTitle,
+      institute: "CIDEAD (Online)",
+      details: text.iabd,
+    },
+    {
       year: "2018 - 2020",
       degree: text.fpTitle,
       institute: "I.E.S. JULIO VERNE",
