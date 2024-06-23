@@ -6,16 +6,22 @@ const Experience = () => {
 
   const experienceContent = [
     {
-      year: "2022 - " + text.present,
-      position: text.aemPosition,
+      year: "2024 - " + text.present,
+      position: text.vassPosition,
+      compnayName: "VASS",
+      details: text.vassDetails,
+    },
+    {
+      year: "2022 - 2024",
+      position: text.accenturePosition,
       compnayName: "ACCENTURE",
-      details: text.aemDetails2,
+      details: text.accentureDetails,
     },
     {
       year: "2020 - " + "2022",
-      position: text.aemSitesPosition,
+      position: text.nttDataPosition,
       compnayName: "NTT DATA",
-      details: text.aemDetails,
+      details: text.nttDataDetails,
     },
     {
       year: "2013 - 2019",

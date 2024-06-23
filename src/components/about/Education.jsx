@@ -6,7 +6,7 @@ const Education = () => {
 
   const educationContent = [
     {
-      year: "2022 - " + text.present,
+      year: "2022 - 2024",
       degree: text.fpMasterTitle,
       institute: "CIDEAD (Online)",
       details: text.iabd,
